@@ -3,7 +3,8 @@
 > In this project, I used a relational database to create the initial data structure for a vet clinic. I created a table to store animals' information, insert some data into it, and query it.
 
 ## Animal's table:
-![Screenshot from 2022-08-17 15-19-47](https://user-images.githubusercontent.com/79658534/185158814-f26cd573-d1a5-4979-a459-1483e4039b01.png)
+
+![Screenshot from 2022-08-18 16-05-31](https://user-images.githubusercontent.com/79658534/185402220-61bfc4e8-c041-41ee-8486-2ffc41ba7f49.png)
 
 
 
